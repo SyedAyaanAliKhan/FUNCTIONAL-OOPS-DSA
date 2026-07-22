@@ -55,7 +55,9 @@ This project was created for learning and practicing **Python OOP fundamentals**
 
 
 
-2.# 🏦 Bank Account Management System (OOP Practice)
+
+* 💳 Add fund transfers between accounts
+# 🏦 Bank Account Management System (OOP Practice)
 
 A simple Python project demonstrating **Object-Oriented Programming (OOP)** concepts such as **encapsulation**, **data validation**, and **exception handling** through a command-line banking system.
 
@@ -112,3 +114,5 @@ The `BankAccount` class stores the account owner's name and balance and provides
 ## ⚠️ Note
 
 This project was created for learning and practicing **Python OOP fundamentals**. It focuses on understanding encapsulation, validation, exception handling, and basic banking operations rather than implementing a production-ready banking system.
+* 📈 Include interest calculation and account types
+* 🔐 Impl
