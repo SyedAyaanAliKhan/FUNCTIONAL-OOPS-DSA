@@ -53,6 +53,7 @@ The `Data` class stores a user's email and password and provides methods to:
 
 This project was created for learning and practicing **Python OOP fundamentals**. It focuses on understanding encapsulation, validation, and basic access control rather than implementing a production-ready authentication system.
 
+---
 
 2.# 🏦 Bank Account Management System (OOP Practice)
 
