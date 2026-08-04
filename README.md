@@ -114,8 +114,10 @@ The `BankAccount` class stores the account owner's name and balance and provides
 This project was created for learning and practicing **Python OOP fundamentals**. It focuses on understanding encapsulation, validation, exception handling, and basic banking operations rather than implementing a production-ready banking system.
 
 
+---
 
-## # 📚 Library Management System (Python OOP)
+
+### 3.📚 Library Management System (Python OOP)
 
 A simple **Library Management System** built using **Object-Oriented Programming (OOP)** principles in Python. This project allows library members to borrow and return books while demonstrating key OOP concepts such as **inheritance, encapsulation, constructors, properties, and method overriding through class specialization**.
 
